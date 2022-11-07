@@ -9,7 +9,9 @@
 
 Feature detection             |  
 :-------------------------:|
-<img src="/results/corners.png" width="350" alt="Alt text" title="">  |  
+
+![feature_detection](https://user-images.githubusercontent.com/61328094/200206722-6d1f7fa3-24a1-43ed-995b-91cc85d0a9bb.png)  |  
+
 
 
 
