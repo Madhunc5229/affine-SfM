@@ -7,9 +7,9 @@
 * This repository contains only the implementation, i.e building the structure and motion of the tracked features. The feature tracking implementation is done in another repository which can be found in my profile by the name "[feature-detection-tracking](https://github.com/Madhunc5229/feature-detection-tracking)". 
 
 
-Feature detection             |  
-:-------------------------:|
-<img src="/data/feature_detection.png" width="350" alt="Alt text" title=""> | 
+Feature detection             |  Feature Tracking | 
+:-------------------------:|:-------------------------:|
+<img src="/data/feature_detection.png" width="350" alt="Alt text" title=""> | <img src="/data/Full_sequence.png" width="350" alt="Alt text" title=""> |
 
 
 
