@@ -9,16 +9,16 @@
 ## Input:  
 Feature detection             |  Feature Tracking | 
 :-------------------------:|:-------------------------:|
-<img src="/data/feature_detection.png" width="300" alt="Alt text" title=""> | <img src="/data/Full_sequence.png" width="300" alt="Alt text" title=""> |
+<img src="/data/feature_detection.png" width="275" alt="Alt text" title=""> | <img src="/data/Full_sequence.png" width="275" alt="Alt text" title=""> |
 
 ## Output:  
 Shape recovered             |  
 :-------------------------:|
-<img src="/results/shape.png" width="500" alt="Alt text" title=""> |
+<img src="/results/shape.png" width="550" alt="Alt text" title=""> |
 
 Camera motion            |  
 :-------------------------:|
-<img src="/results/motion.png" width="500" alt="Alt text" title=""> |
+<img src="/results/motion.png" width="550" alt="Alt text" title=""> |
 
 
 
