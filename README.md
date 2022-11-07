@@ -6,13 +6,19 @@
 * These features are tracked throughout the sequence by implementing Lucas - Kanade optical flow (feature-tracking) algorithm.  
 * This repository contains only the implementation, i.e building the structure and motion of the tracked features. The feature tracking implementation is done in another repository which can be found in my profile by the name "[feature-detection-tracking](https://github.com/Madhunc5229/feature-detection-tracking)". 
 
-
+## Input:  
 Feature detection             |  Feature Tracking | 
 :-------------------------:|:-------------------------:|
 <img src="/data/feature_detection.png" width="350" alt="Alt text" title=""> | <img src="/data/Full_sequence.png" width="350" alt="Alt text" title=""> |
 
+## Output:  
+Shape recovered             |  
+:-------------------------:|
+<img src="/results/shape.png" width="350" alt="Alt text" title=""> |
 
-
+Camera motion            |  
+:-------------------------:|
+<img src="/results/motion.png" width="350" alt="Alt text" title=""> |
 
 
 
